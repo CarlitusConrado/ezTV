@@ -1,0 +1,5 @@
+{
+  "name": "EzVoice TV Player",
+  "description": "A video player interface featuring a main highlight player, a carousel of 10 videos, and a modal expansion view, styled with a red geometric theme.",
+  "requestFramePermissions": []
+}
