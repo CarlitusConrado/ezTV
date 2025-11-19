@@ -19,7 +19,7 @@ const MainPlayer: React.FC<MainPlayerProps> = ({ video, onExpand }) => {
     <div className="flex flex-col items-center z-10 relative w-full max-w-4xl mx-auto px-4">
       
       {/* Main Video Container - Clean monitor style without internal decorations */}
-      <div className="group relative w-full aspect-video bg-black rounded-2xl shadow-2xl overflow-hidden border-4 border-white/10">
+      <div className="group relative w-full aspect-video bg-black rounded-2xl shadow-2xl overflow-hidden border-4 border-white">
         
         {isPlaying ? (
           <iframe
